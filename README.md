@@ -26,9 +26,13 @@ Com o Kamba asseguramos nossos clientes/parceiros à resolver os problemas acima
 # Detalhes sobre a empresa
 
 **Site**: https://www.usekamba.com
+
 **Sede**: Luanda
+
 **Ano de fundação**: 2017
+
 **Tipo de empresa**: Empresa privada
+
 **Tamanho da empresa**: 3-10 funcionários
 
 # Como me candidatar para uma vaga?
