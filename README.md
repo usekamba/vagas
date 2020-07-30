@@ -1,6 +1,6 @@
 # Trabalhe connosco
 
-Somos uma equipa com a missão de **conectar negócios/empresas e consumidores atráves de pagamentos móveis**. O Kamba permite aos angolanos com um smartphone pagarem de forma rápida, conveniente e à baixo custo ao escaneiar/direcionar a câmera do seu smartphone para a leitura de códigos de pagamentos QRKamba. Permite ainda pagar ou receber pagamentos por e-mail, número de telemóvel, links de pagamento em redes sociais, checkout online e códigos qr online/offline. Ideal para empresas/estabelecimentos, contactos independentes e serviços locais. Funciona como um multi-caixa no seu bolso, só que com mais serviços e integrações.
+Somos uma equipa com a missão de **conectar negócios/empresas e consumidores atráves de pagamentos móveis**. O Kamba permite aos angolanos com um smartphone pagarem de forma rápida, conveniente e a baixo custo ao escaneiar/direcionar a câmera do seu smartphone para a leitura de códigos de pagamentos Kamba QR. Permite ainda pagar ou receber pagamentos por e-mail, número de telemóvel, links de pagamento em redes sociais, checkout online e códigos qr online/offline. Ideal para empresas/estabelecimentos, contactos independentes e serviços locais. Funciona como um multi-caixa no seu bolso, só que com mais serviços e integrações.
 
 # O que estamos a resolver?
 
@@ -14,14 +14,14 @@ O Kamba surge no mercado angolano como problema inicial dos seus fundadores:
 - Centralização bancária e **monopolização** de vários serviços e atividades
 - Estamos no século XXI
 
-Com o Kamba asseguramos nossos clientes/parceiros à resolver os problemas acima com soluções inteligentes e inovadoras sem estresse ou burocracia, **diferente dos meios tradicionais** com recursos que ajudam a vender e fazer crescer o seu negócio.
+Com o Kamba asseguramos nossos clientes/parceiros a resolver os problemas acima com soluções inteligentes e inovadoras sem estresse ou burocracia, **diferente dos meios tradicionais** com recursos que ajudam a vender e fazer crescer o seu negócio.
 
 # O que estamos a construir?
 - APIs
 - Aplicativos iOS
 - Aplicativos Android
-- Páginas webs
-- Sistemas
+- Páginas Webs
+- Sistemas integrados e SDKs
 
 # Detalhes sobre a empresa
 
@@ -36,4 +36,4 @@ Com o Kamba asseguramos nossos clientes/parceiros à resolver os problemas acima
 **Tamanho da empresa**: 3-10 funcionários
 
 # Como me candidatar para uma vaga?
-Envie seu CV, LinkedIn e portfólio de projetos para **info@usekamba.com**
+Envie seu CV, LinkedIn e portfólio de projetos para **suporte@usekamba.com**
